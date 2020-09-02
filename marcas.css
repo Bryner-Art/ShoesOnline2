@@ -1,0 +1,16 @@
+#marcas .container{
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+#marcas article{
+	margin:15px;
+
+}
+#marcas img {
+	width: 100%;
+	max-width: 280px;
+}
+#marcas h2,h4{
+	text-align: center;
+}

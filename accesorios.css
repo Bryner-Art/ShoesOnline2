@@ -1,0 +1,30 @@
+#ace{
+	background: black;
+	color: white;
+	text-align: center;
+	padding: 20px;
+
+}
+#ace .container{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.imgs{
+	margin: 20px;
+
+}
+.imgs img{
+	width: 180px;
+	height: 180px;
+
+
+}
+#ace h2  {
+	text-align: center;
+}
+@media (min-width: 480px){
+	.imgs{
+		width: 40%;
+	}
+}
